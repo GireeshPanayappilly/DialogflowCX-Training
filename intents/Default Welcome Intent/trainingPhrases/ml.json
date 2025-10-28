@@ -1,0 +1,99 @@
+{
+  "trainingPhrases": [ {
+    "id": "0eba8a8e-958b-4dbc-b15d-c85958855262",
+    "parts": [ {
+      "text": "നീ അവിടെയുണ്ടോ",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ml"
+  }, {
+    "id": "46ae33e4-63f7-41b3-bc69-b16b91f541fe",
+    "parts": [ {
+      "text": "ഹായ്",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ml"
+  }, {
+    "id": "93bc8517-3ec6-43c4-b12f-770302c5d01a",
+    "parts": [ {
+      "text": "ഏയ്",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ml"
+  }, {
+    "id": "4a2fbe33-50ec-4f91-a0c2-da8567fe73de",
+    "parts": [ {
+      "text": "ഹലോ",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ml"
+  }, {
+    "id": "d7aa2b8d-b286-4e2b-aa1e-e5b314c9c6be",
+    "parts": [ {
+      "text": "ഹേയ്",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ml"
+  }, {
+    "id": "e4b046ca-6606-4ee4-8ea2-41633af3d8e2",
+    "parts": [ {
+      "text": "ഹേയ്, അവിടെയുണ്ടോ",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ml"
+  }, {
+    "id": "63551223-cbc4-406b-a58b-0fe7eb1f0a42",
+    "parts": [ {
+      "text": "ദീർഘനാളായി കണ്ടിട്ട്",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ml"
+  }, {
+    "id": "e6dc50e2-dadb-4d06-8a41-b4d4d5d72919",
+    "parts": [ {
+      "text": "ഒരു നല്ല ദിവസം",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ml"
+  }, {
+    "id": "3f00450d-03af-432a-917b-fe82264cf16e",
+    "parts": [ {
+      "text": "ഹലോ വീണ്ടും",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ml"
+  }, {
+    "id": "756b6d2a-71c2-4b0e-b2cd-8ffd37869689",
+    "parts": [ {
+      "text": "ആശംസകൾ",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ml"
+  }, {
+    "id": "c5325899-0f8c-42ef-a017-eb223ab8680b",
+    "parts": [ {
+      "text": "മനോഹരമായ ദിവസം അല്ലേ",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ml"
+  }, {
+    "id": "3c7a9133-3156-427f-8c9f-9d4166ce326a",
+    "parts": [ {
+      "text": "വെറുതെ ഹായ് പറയാൻ പോകുന്നു",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "ml"
+  } ]
+}
